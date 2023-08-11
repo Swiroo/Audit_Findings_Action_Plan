@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="fe3e58d797143110a55134100153af72" label="Audit Findings Action Plan" max_length="40" name="x_1070075_afaplan_audit_findings_action_plan" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Auditor" max_length="500" name="auditor" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Audit Date" max_length="40" name="audit_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Div" max_length="40" name="div" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Individual Assigned" max_length="40" name="individual_assigned" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Office Assigned To" max_length="40" name="office_assigned_to" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Original Planned Completion Date" max_length="40" name="original_planned_completion_date" type="glide_date"/>
+        <element label="Overall Percentage Completion" max_length="38" name="overall_percentage_completion" type="percent_complete"/>
+        <element attributes="edge_encryption_enabled=true" label="Planned Completion Date" max_length="40" name="planned_completion_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Updated by" max_length="300" name="updated_by" type="string"/>
+    </element>
+</database>

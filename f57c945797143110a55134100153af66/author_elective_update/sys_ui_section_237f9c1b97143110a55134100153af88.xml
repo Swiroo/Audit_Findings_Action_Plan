@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="New Section" section_id="237f9c1b97143110a55134100153af88" sys_domain="global" table="x_1070075_afaplan_audit_findings_action_plan" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>original_planned_completion_date</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-01 23:10:04</sys_created_on>
+            <sys_id>eb7fdc1b97143110a55134100153af28</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_1070075_afaplan_audit_findings_action_plan" sys_domain="global" view="Default view">237f9c1b97143110a55134100153af88</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-01 23:10:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>overall_percentage_completion</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-01 23:10:04</sys_created_on>
+            <sys_id>6f7fdc1b97143110a55134100153af28</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_1070075_afaplan_audit_findings_action_plan" sys_domain="global" view="Default view">237f9c1b97143110a55134100153af88</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-01 23:10:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-01 23:10:04</sys_created_on>
+            <sys_id>ef7fdc1b97143110a55134100153af28</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_1070075_afaplan_audit_findings_action_plan" sys_domain="global" view="Default view">237f9c1b97143110a55134100153af88</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-01 23:10:04</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>planned_completion_date</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-01 23:10:04</sys_created_on>
+            <sys_id>637fdc1b97143110a55134100153af29</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_1070075_afaplan_audit_findings_action_plan" sys_domain="global" view="Default view">237f9c1b97143110a55134100153af88</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-01 23:10:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>New Section</caption>
+            <header>false</header>
+            <name>x_1070075_afaplan_audit_findings_action_plan</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-01 23:10:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>237f9c1b97143110a55134100153af88</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1070075_afaplan_audit_findings_action_plan</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Audit Findings Action Plan" source="x_1070075_afaplan">f57c945797143110a55134100153af66</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Audit Findings Action Plan">f57c945797143110a55134100153af66</sys_scope>
+            <sys_update_name>sys_ui_section_237f9c1b97143110a55134100153af88</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-01 23:10:04</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Audit Findings Action Plan">f57c945797143110a55134100153af66</application>
+        <file_path/>
+        <instance_id>d49cb980dbf121545dc32f17d4961943</instance_id>
+        <instance_name>dev166560</instance_name>
+        <name>sys_ui_section_237f9c1b97143110a55134100153af88</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="New Section" section_id="237f9c1b97143110a55134100153af88" sys_domain="global" table="x_1070075_afaplan_audit_findings_action_plan" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>original_planned_completion_date</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-01 23:10:04</sys_created_on><sys_id>eb7fdc1b97143110a55134100153af28</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_1070075_afaplan_audit_findings_action_plan" sys_domain="global" view="Default view">237f9c1b97143110a55134100153af88</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-01 23:10:04</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>overall_percentage_completion</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-01 23:10:04</sys_created_on><sys_id>6f7fdc1b97143110a55134100153af28</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_1070075_afaplan_audit_findings_action_plan" sys_domain="global" view="Default view">237f9c1b97143110a55134100153af88</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-01 23:10:04</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-01 23:10:04</sys_created_on><sys_id>ef7fdc1b97143110a55134100153af28</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_1070075_afaplan_audit_findings_action_plan" sys_domain="global" view="Default view">237f9c1b97143110a55134100153af88</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-01 23:10:04</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>planned_completion_date</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-01 23:10:04</sys_created_on><sys_id>637fdc1b97143110a55134100153af29</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_1070075_afaplan_audit_findings_action_plan" sys_domain="global" view="Default view">237f9c1b97143110a55134100153af88</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-01 23:10:04</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>New Section</caption><header>false</header><name>x_1070075_afaplan_audit_findings_action_plan</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-01 23:10:04</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>237f9c1b97143110a55134100153af88</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1070075_afaplan_audit_findings_action_plan</sys_name><sys_overrides/><sys_package display_value="Audit Findings Action Plan" source="x_1070075_afaplan">f57c945797143110a55134100153af66</sys_package><sys_policy/><sys_scope display_value="Audit Findings Action Plan">f57c945797143110a55134100153af66</sys_scope><sys_update_name>sys_ui_section_237f9c1b97143110a55134100153af88</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-01 23:10:04</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>883515667</payload_hash>
+        <record_name>Audit Findings Action Plan</record_name>
+        <reverted_from/>
+        <source>717c945797143110a55134100153af68</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-01 23:10:04</sys_created_on>
+        <sys_id>237fdc1b97143110a55134100153af2b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>189b35d9fda0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-01 23:10:04</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>a77fdc1bf01431101b59aca04080802a</update_guid>
+        <update_guid_history>a77fdc1bf01431101b59aca04080802a:883515667</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-01 23:10:22</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>07d8fa92de0e48d481185eb054de8b10</sys_id>
+        <sys_metadata>237f9c1b97143110a55134100153af88</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Section</sys_name>
+        <sys_package display_value="Audit Findings Action Plan" source="x_1070075_afaplan">f57c945797143110a55134100153af66</sys_package>
+        <sys_parent display_value="Audit Findings Action Plan">fe3e58d797143110a55134100153af72</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Audit Findings Action Plan">f57c945797143110a55134100153af66</sys_scope>
+        <sys_scope_delete display_value="">56e1d48da0e64098b6320be9456ac564</sys_scope_delete>
+        <sys_update_name>sys_ui_section_237f9c1b97143110a55134100153af88</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_237f9c1b97143110a55134100153af88">237fdc1b97143110a55134100153af2b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-01 23:10:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

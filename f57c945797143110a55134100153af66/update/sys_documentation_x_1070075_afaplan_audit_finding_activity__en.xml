@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Audit Finding Activity" language="en" table="x_1070075_afaplan_audit_finding_activity">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Audit Finding Activity</label>
+            <language>en</language>
+            <name>x_1070075_afaplan_audit_finding_activity</name>
+            <plural>Audit Finding Activities</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-02 00:36:21</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Audit Finding Activity</sys_name>
+            <sys_package display_value="Audit Findings Action Plan" source="x_1070075_afaplan">f57c945797143110a55134100153af66</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Audit Findings Action Plan">f57c945797143110a55134100153af66</sys_scope>
+            <sys_update_name>sys_documentation_x_1070075_afaplan_audit_finding_activity__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-02 00:36:21</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

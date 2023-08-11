@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Audit Finding Activity">6e803c9b97543110a55134100153afce</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>SEPARATOR</link_type>
+        <map_page/>
+        <mobile_title>Audit Finding Activity1212</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-02 18:18:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5236ac6797147110a55134100153af59</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Audit Finding Activity1212</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Audit Findings Action Plan" source="x_1070075_afaplan">f57c945797143110a55134100153af66</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Audit Findings Action Plan">f57c945797143110a55134100153af66</sys_scope>
+        <sys_update_name>sys_app_module_5236ac6797147110a55134100153af59</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-02 18:18:48</sys_updated_on>
+        <timeline_page/>
+        <title>Audit Finding Activity1212</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Audit Findings Action Plan">f57c945797143110a55134100153af66</application>
+        <file_path/>
+        <instance_id>d49cb980dbf121545dc32f17d4961943</instance_id>
+        <instance_name>dev166560</instance_name>
+        <name>sys_app_module_5236ac6797147110a55134100153af59</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Audit Finding Activity">6e803c9b97543110a55134100153afce</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>SEPARATOR</link_type><map_page/><mobile_title>Audit Finding Activity1212</mobile_title><mobile_view_name>Mobile</mobile_view_name><name/><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-02 18:18:48</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>5236ac6797147110a55134100153af59</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Audit Finding Activity1212</sys_name><sys_overrides/><sys_package display_value="Audit Findings Action Plan" source="x_1070075_afaplan">f57c945797143110a55134100153af66</sys_package><sys_policy/><sys_scope display_value="Audit Findings Action Plan">f57c945797143110a55134100153af66</sys_scope><sys_update_name>sys_app_module_5236ac6797147110a55134100153af59</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-02 18:18:48</sys_updated_on><timeline_page/><title>Audit Finding Activity1212</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>35084821</payload_hash>
+        <record_name>Audit Finding Activity1212</record_name>
+        <reverted_from/>
+        <source>717c945797143110a55134100153af68</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-02 18:18:48</sys_created_on>
+        <sys_id>2266a4e797147110a55134100153afc1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>189b7794f8d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-02 18:18:48</sys_updated_on>
+        <type>Module</type>
+        <update_guid>6666a4e7ba1471108baf918d62036ec0</update_guid>
+        <update_guid_history>6666a4e7ba1471108baf918d62036ec0:35084821</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Audit Finding Activity1212">7dc6ece797147110a55134100153af2e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-02 18:20:23</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>50b0885aafed4c12a51903dfd5c80f64</sys_id>
+        <sys_metadata>5236ac6797147110a55134100153af59</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Audit Finding Activity1212</sys_name>
+        <sys_package display_value="Audit Findings Action Plan" source="x_1070075_afaplan">f57c945797143110a55134100153af66</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Audit Findings Action Plan">f57c945797143110a55134100153af66</sys_scope>
+        <sys_scope_delete display_value="">56e1d48da0e64098b6320be9456ac564</sys_scope_delete>
+        <sys_update_name>sys_app_module_5236ac6797147110a55134100153af59</sys_update_name>
+        <sys_update_version display_value="sys_app_module_5236ac6797147110a55134100153af59">2266a4e797147110a55134100153afc1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-02 18:20:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

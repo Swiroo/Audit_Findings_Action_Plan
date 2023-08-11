@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Audit Finding Activity">6e803c9b97543110a55134100153afce</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>CONTENT_PAGE</link_type>
+        <map_page/>
+        <mobile_title>TEstinbg</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1070075_afaplan_audit_finding_activity</name>
+        <order>5</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-02 18:28:19</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b268686b97147110a55134100153af67</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>TEstinbg</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Audit Findings Action Plan" source="x_1070075_afaplan">f57c945797143110a55134100153af66</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Audit Findings Action Plan">f57c945797143110a55134100153af66</sys_scope>
+        <sys_update_name>sys_app_module_b268686b97147110a55134100153af67</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-02 18:32:22</sys_updated_on>
+        <timeline_page/>
+        <title>TEstinbg</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Audit Findings Action Plan">f57c945797143110a55134100153af66</application>
+        <file_path/>
+        <instance_id>d49cb980dbf121545dc32f17d4961943</instance_id>
+        <instance_name>dev166560</instance_name>
+        <name>sys_app_module_b268686b97147110a55134100153af67</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Audit Finding Activity">6e803c9b97543110a55134100153afce</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>CONTENT_PAGE</link_type><map_page/><mobile_title>TEstinbg</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1070075_afaplan_audit_finding_activity</name><order>5</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-02 18:28:19</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b268686b97147110a55134100153af67</sys_id><sys_mod_count>3</sys_mod_count><sys_name>TEstinbg</sys_name><sys_overrides/><sys_package display_value="Audit Findings Action Plan" source="x_1070075_afaplan">f57c945797143110a55134100153af66</sys_package><sys_policy/><sys_scope display_value="Audit Findings Action Plan">f57c945797143110a55134100153af66</sys_scope><sys_update_name>sys_app_module_b268686b97147110a55134100153af67</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-02 18:32:22</sys_updated_on><timeline_page/><title>TEstinbg</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1284373055</payload_hash>
+        <record_name>TEstinbg</record_name>
+        <reverted_from/>
+        <source>717c945797143110a55134100153af68</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-02 18:32:22</sys_created_on>
+        <sys_id>6d892cab97147110a55134100153af8c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>189b785bd340000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-02 18:32:22</sys_updated_on>
+        <type>Module</type>
+        <update_guid>65892cab48147110048a6e7fdcb7578c</update_guid>
+        <update_guid_history>65892cab48147110048a6e7fdcb7578c:1284373055,ea29e0ab07147110014658b2646c64b2:878325241,ede8ac2bb4147110d2018bad9401f005:643242587,42982c6b751471102dd9ad5356536809:-919000580</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="TEstinbg">20b928ab97147110a55134100153afca</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-02 18:33:07</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>6519d752dcd44dd4a842879f2c89cd31</sys_id>
+        <sys_metadata>b268686b97147110a55134100153af67</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TEstinbg</sys_name>
+        <sys_package display_value="Audit Findings Action Plan" source="x_1070075_afaplan">f57c945797143110a55134100153af66</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Audit Findings Action Plan">f57c945797143110a55134100153af66</sys_scope>
+        <sys_scope_delete display_value="">56e1d48da0e64098b6320be9456ac564</sys_scope_delete>
+        <sys_update_name>sys_app_module_b268686b97147110a55134100153af67</sys_update_name>
+        <sys_update_version display_value="sys_app_module_b268686b97147110a55134100153af67">6d892cab97147110a55134100153af8c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-02 18:33:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
