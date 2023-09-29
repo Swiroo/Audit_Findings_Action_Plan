@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
+    <sys_search_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_search_source display_value="Audit Finding Activity">4ae94e011bd5711071b8eb11604bcb49</ais_search_source>
+        <label>Audit Finding Activity</label>
+        <name>Audit Finding Activity</name>
+        <order>100</order>
+        <search_context_config display_value="Audit Findings Action Plan AI Search Configuration">4ce98a01bad5711089809542a90b2acf</search_context_config>
+        <sys_class_name>sys_search_filter</sys_class_name>
+        <sys_created_by>charles_admin</sys_created_by>
+        <sys_created_on>2023-09-14 00:11:28</sys_created_on>
+        <sys_id>5ae94e011bd5711071b8eb11604bcb8b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Audit Finding Activity</sys_name>
+        <sys_package display_value="Audit Findings Action Plan" source="x_1070075_afaplan">f57c945797143110a55134100153af66</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Audit Findings Action Plan">f57c945797143110a55134100153af66</sys_scope>
+        <sys_update_name>sys_search_filter_5ae94e011bd5711071b8eb11604bcb8b</sys_update_name>
+        <sys_updated_by>charles_admin</sys_updated_by>
+        <sys_updated_on>2023-09-14 00:11:28</sys_updated_on>
+    </sys_search_filter>
+</record_update>

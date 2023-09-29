@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>listConfigId</name>
+        <page display_value="Audit Findings Action Plan">08e98a01e3d57110f20925c50799fffc</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>charles_admin</sys_created_by>
+        <sys_created_on>2023-09-14 00:11:21</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>c0e98a016ed57110f34c9336b3c46ddc</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>listConfigId</sys_name>
+        <sys_package display_value="Audit Findings Action Plan" source="x_1070075_afaplan">f57c945797143110a55134100153af66</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Audit Findings Action Plan">f57c945797143110a55134100153af66</sys_scope>
+        <sys_update_name>sys_ux_page_property_c0e98a016ed57110f34c9336b3c46ddc</sys_update_name>
+        <sys_updated_by>charles_admin</sys_updated_by>
+        <sys_updated_on>2023-09-14 00:11:26</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_1070075_afaplan.08e98a01e3d57110f20925c50799fffc.root.listConfigId</unique_name>
+        <value>f1e90e011bd5711071b8eb11604bcb6b</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=c0e98a016ed57110f34c9336b3c46ddc"/>
+</record_update>

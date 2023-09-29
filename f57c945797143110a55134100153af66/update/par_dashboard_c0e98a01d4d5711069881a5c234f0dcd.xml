@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard">
+    <par_dashboard action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <certified>false</certified>
+        <description/>
+        <experience/>
+        <grid/>
+        <name>Audit Findings Action Plan</name>
+        <sys_class_name>par_dashboard</sys_class_name>
+        <sys_created_by>charles_admin</sys_created_by>
+        <sys_created_on>2023-09-14 00:11:22</sys_created_on>
+        <sys_id>c0e98a01d4d5711069881a5c234f0dcd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Audit Findings Action Plan</sys_name>
+        <sys_package display_value="Audit Findings Action Plan" source="x_1070075_afaplan">f57c945797143110a55134100153af66</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Audit Findings Action Plan">f57c945797143110a55134100153af66</sys_scope>
+        <sys_update_name>par_dashboard_c0e98a01d4d5711069881a5c234f0dcd</sys_update_name>
+        <sys_updated_by>charles_admin</sys_updated_by>
+        <sys_updated_on>2023-09-14 00:11:22</sys_updated_on>
+        <sys_ux_app_config/>
+        <sys_ux_app_route/>
+        <sys_ux_macroponent/>
+        <sys_ux_screen/>
+        <sys_ux_screen_type/>
+    </par_dashboard>
+</record_update>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="03c23cdb97543110a55134100153afa3" label="Audit Finding Activity" max_length="40" name="x_1070075_afaplan_audit_finding_activity" type="collection">
+    <element db_object_id="03c23cdb97543110a55134100153afa3" label="Audit Finding Activity" max_length="40" name="x_1070075_afaplan_audit_finding_activity" text_index="true" type="collection">
         <element label="Activity" max_length="200" name="activity" type="string"/>
         <element label="Actual Comp" max_length="40" name="actual_comp" type="glide_date"/>
         <element attributes="encode_utf8=false" label="Audit Findings Action Plan Number" max_length="32" name="audit_findings_number_reference" read_only="true" reference="x_1070075_afaplan_audit_findings_action_plan" type="reference"/>

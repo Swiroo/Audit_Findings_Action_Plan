@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_context_config">
+    <sys_search_context_config action="INSERT_OR_UPDATE">
+        <application_id display_value="Audit Findings Action Plan">f57c945797143110a55134100153af66</application_id>
+        <evam_definition display_value="">f78b729b53d801109fa9ddeeff7b1201</evam_definition>
+        <genius_results_limit>1</genius_results_limit>
+        <hit_highlighting>false</hit_highlighting>
+        <name>Audit Findings Action Plan AI Search Configuration</name>
+        <search_engine>ai_search</search_engine>
+        <search_profile display_value="Audit Findings Action Plan search profile">80e98a012ed571105e62578a5157dbd7</search_profile>
+        <search_results_limit>10</search_results_limit>
+        <spell_check>true</spell_check>
+        <suggestions_to_show_limit>10</suggestions_to_show_limit>
+        <sys_class_name>sys_search_context_config</sys_class_name>
+        <sys_created_by>charles_admin</sys_created_by>
+        <sys_created_on>2023-09-14 00:11:22</sys_created_on>
+        <sys_id>4ce98a01bad5711089809542a90b2acf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Audit Findings Action Plan AI Search Configuration</sys_name>
+        <sys_package display_value="Audit Findings Action Plan" source="x_1070075_afaplan">f57c945797143110a55134100153af66</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Audit Findings Action Plan">f57c945797143110a55134100153af66</sys_scope>
+        <sys_update_name>sys_search_context_config_4ce98a01bad5711089809542a90b2acf</sys_update_name>
+        <sys_updated_by>charles_admin</sys_updated_by>
+        <sys_updated_on>2023-09-14 00:11:22</sys_updated_on>
+        <ts_index_group/>
+        <view/>
+    </sys_search_context_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=4ce98a01bad5711089809542a90b2acf"/>
+</record_update>
